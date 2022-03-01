@@ -1,4 +1,4 @@
-package com.directi.training.dip.exercise_refactored;
+package com.directi.training.dip.exercise_refactored.readers;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

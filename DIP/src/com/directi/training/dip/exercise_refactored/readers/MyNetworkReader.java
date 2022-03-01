@@ -1,4 +1,4 @@
-package com.directi.training.dip.exercise_refactored;
+package com.directi.training.dip.exercise_refactored.readers;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,5 +1,8 @@
 package com.directi.training.dip.exercise_refactored;
 
+import com.directi.training.dip.exercise_refactored.readers.IReader;
+import com.directi.training.dip.exercise_refactored.writers.IWriter;
+
 import java.io.IOException;
 import java.util.Base64;
 

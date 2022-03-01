@@ -1,4 +1,6 @@
-package com.directi.training.dip.exercise_refactored;
+package com.directi.training.dip.exercise_refactored.writers;
+
+import com.directi.training.dip.exercise_refactored.MyDatabase;
 
 public class MyDatabaseWriter implements IWriter
 {

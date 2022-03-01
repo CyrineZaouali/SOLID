@@ -1,5 +1,12 @@
 package com.directi.training.dip.exercise_refactored;
 
+import com.directi.training.dip.exercise_refactored.readers.IReader;
+import com.directi.training.dip.exercise_refactored.readers.MyFileReader;
+import com.directi.training.dip.exercise_refactored.readers.MyNetworkReader;
+import com.directi.training.dip.exercise_refactored.writers.IWriter;
+import com.directi.training.dip.exercise_refactored.writers.MyDatabaseWriter;
+import com.directi.training.dip.exercise_refactored.writers.MyFileWriter;
+
 import java.io.IOException;
 
 public class EncodingModuleClient

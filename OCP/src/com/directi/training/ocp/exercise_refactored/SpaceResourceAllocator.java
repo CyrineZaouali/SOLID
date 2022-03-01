@@ -1,6 +1,6 @@
 package com.directi.training.ocp.exercise_refactored;
 
-public class SpaceResource implements Resource {
+public class SpaceResourceAllocator implements Resource {
     @Override
     public int findFree() {
         return 0;
